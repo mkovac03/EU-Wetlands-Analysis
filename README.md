@@ -17,28 +17,6 @@ Wetlands are vital for mitigating climate change due to their carbon storage, bu
   - **Prediction**: Notebook for applying the trained model to make predictions on wetland presence and carbon storage.
 - `outputs/`: Generated outputs from the analysis, including confusion matrices, sample points, and accuracy assessment metrics.
 
-## Dependencies
-
-To run the workflows and replicate the analysis, you will need the following Python libraries:
-
-- `geopandas`
-- `pandas`
-- `numpy`
-- `rasterio`
-- `shapely`
-- `scikit-learn`
-- `matplotlib`
-- `seaborn`
-- `tqdm`
-- `xgboost`
-- `jupyter`
-
-You can install the dependencies using:
-
-```bash
-pip install geopandas pandas numpy rasterio shapely scikit-learn matplotlib seaborn tqdm xgboost jupyter
-```
-
 ## Contact
 
 For questions, collaborations, or further information on the study, please contact Dr. Gyula Mate Kovacs at [gmk@ign.ku.dk].
