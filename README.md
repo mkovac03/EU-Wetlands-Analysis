@@ -6,15 +6,6 @@ Wetlands are vital for mitigating climate change due to their carbon storage, bu
 
 **Authors:** Gyula Mate Kovács, Xiaoye Tong, Stefan Oehmcke, Dimitri Gominski, Stéphanie Horion, Christin Abel, Eva Ivits, Guy Schurgers, Bo Elberling, Alexander Prishchepov, Sebastian van der Linden, Susan Page, Alexandra Barthelmes, and Rasmus Fensholt.
 
-- **Affiliations:**
-  - Department of Geosciences and Natural Resource Management, University of Copenhagen, Denmark
-  - Department of Computer Science, University of Copenhagen, Denmark
-  - European Environment Agency, Copenhagen, Denmark
-  - Global Wetland Center, Copenhagen, Denmark
-  - Department of Geography and Geology, University of Greifswald, Germany
-  - Greifswald Mire Center, Greifswald, Germany
-  - Department of Geography, University of Leicester, United Kingdom
-
 ## Repository Structure
 
 - `data/`: Contains necessary data files, including GeoPackage and CSV files used for the analysis of wetland areas and carbon storage.
