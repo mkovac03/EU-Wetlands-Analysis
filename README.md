@@ -1,5 +1,5 @@
 
-**Description:** This repository contains workflows, data, and scripts used for the study **"Europe's Wetlands Reveal High Carbon Storage Despite Human Disturbances"**. 
+**Description:** This repository contains workflows, data, and scripts used for the study **"Europe's wetlands reveal high carbon storage despite human disturbances"**. 
 
 ## Abstract
 
