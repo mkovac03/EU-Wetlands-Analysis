@@ -1,3 +1,6 @@
+![Example Image](fig1.png)
+
+
 **Description:** This repository contains workflows, data, and scripts used for the study **"Europe's Wetlands Reveal High Carbon Storage Despite Human Disturbances"**. 
 
 ## Abstract
