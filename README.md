@@ -1,5 +1,3 @@
-![Example Image](fig1.png)
-
 
 **Description:** This repository contains workflows, data, and scripts used for the study **"Europe's Wetlands Reveal High Carbon Storage Despite Human Disturbances"**. 
 
@@ -19,6 +17,8 @@ Wetlands are vital for mitigating climate change due to their carbon storage, bu
   - **Image Extraction**: Notebook for extracting image data used in the analysis.
   - **Prediction**: Notebook for applying the trained model to make predictions on wetland presence and carbon storage.
 - `outputs/`: Generated outputs from the analysis, including confusion matrices, sample points, and accuracy assessment metrics.
+
+![Example Image](fig1.png)
 
 ## Contact
 
